@@ -70,3 +70,27 @@ JavaScript error: , line 0: NS_ERROR_FAILURE
 1575876413889	Marionette	INFO	Listening on port 58700
 1575876414043	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 8700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 8700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[ine C3h4i1l
+d 8112, Chrome_Ch[iChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8112, Chr[Parent 8700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1575876646209	Marionette	INFO	Stopped listening on port 58700
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+P[Parent 8700, Gecko_IOThread] WARNING: pipe error: 232: file z:/1575876647347	Marionette	INFO	Listening on port 58876
+1575876647378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.gr-assets.com/assets/desktop/libraries-475f795f2206aa92f80beb097daebbbf.js, line 176: Array.map is deprecated; use Array.prototype.map instead
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 2096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Child47 5100, Chr64, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14764, [Parent 2096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9756, C1575880500148	Marionette	INFO	Stopped listening on port 58876
+[GPU 8
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
